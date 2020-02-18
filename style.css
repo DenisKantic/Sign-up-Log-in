@@ -17,3 +17,10 @@ body{
     overflow: hidden;
 }
 
+.sign-up-box h1{
+
+    text-align: center;
+    color: #fff;
+    font-family: 'Permanent Marker', cursive;
+    margin: 50px;
+}
