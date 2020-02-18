@@ -22,5 +22,16 @@ body{
     text-align: center;
     color: #fff;
     font-family: 'Permanent Marker', cursive;
-    margin: 50px;
+    margin: 70px;
+}
+
+.sign-up-box input{
+
+    display: block;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0 10%;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 20px;
 }
